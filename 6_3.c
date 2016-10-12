@@ -18,7 +18,7 @@ words like "and", "the" etc. */
 // I'm using a linked list for the line numbers of each word, but I could use a tree
 // for this as well. 
 
-// Write nonrecursive addToTree, hash for noiseWord, tree
+// Optional: Write nonrecursive addToTree.
 
 struct tnode {
     char *word;
